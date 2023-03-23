@@ -1,6 +1,10 @@
 # YiiProject
 Yii 
 
+Issues:
+
+If yii does not work and load yii page then in terminal type within the project folder php yii serve
+
 
 Resources used:
 
