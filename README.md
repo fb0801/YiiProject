@@ -1,11 +1,11 @@
 # YiiProject
 Yii 
 
-<h3>Issues:</h3>
+### Issues:
 
 If yii does not load then from with terminal and where project folder is type php yii serve
 
-<h3>Resources used:</h3>
+### Resources used:
 
 https://www.javatpoint.com/how-to-install-composer-on-windows#:~:text=Under%20the%20%22Installation%20%2D%20Windows%22,install%20and%20follow%20the%20instructions.
 
